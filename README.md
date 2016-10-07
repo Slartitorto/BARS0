@@ -1,4 +1,5 @@
-# Home-Sensors for BARS
+# BAsic Remote Sensors (BARS) vers. 0
+
 This code allow you to get data from BARS temp sensors by simple and clear web app.
 
 Temp sensors and receiver are shown here:
