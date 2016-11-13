@@ -12,7 +12,7 @@
 #include <Narcoleptic.h>
 // #include "printf.h" //DEBUG
 
-RF24 radio(PA3,PA7);   // attiny84: pins for nrf24l01 CSN,CE
+RF24 radio(PA3,PA7);   // attiny84: pins for nrf24l01 CE, CSN
 
 #define tempPin A2     // TMP36 Vout connected to A2 (ATtiny pin 11)
 #define radioPower 0   // EN Voltage Regulator pin is connected on pin PB0 - D0 (ATtiny pin 2)
